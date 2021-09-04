@@ -1,0 +1,12 @@
+Java Script is
+ 1. A High Level Programming language
+ 2.Interpreted language (only reads doesn't compiles(breaking down a
+                                high level language in such a way the computer understands))
+ 3.Single threaded (one task at a time)
+ 4.Synchronous (tasks are done in orderly way one by one)
+
+
+Execute tasks through 
+ Memory Heap (tasks are stored here) & Call Stack (executed in a stack way one by one)
+
+ 
